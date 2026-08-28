@@ -378,10 +378,10 @@ The project also provided experience in translating a real-world banking scenari
 
 # Academic Project
 
-**Module:** DOC333 – Introduction to Programming Principles
-**Programme:** Foundation Certificate in Higher Education
-**Institution:** Informatics Institute of Technology (IIT), Sri Lanka
-**Assignment Type:** Individual
+**Module:** DOC333 – Introduction to Programming Principles  
+**Programme:** Foundation Certificate in Higher Education  
+**Institution:** Informatics Institute of Technology (IIT), Sri Lanka  
+**Assignment Type:** Individual  
 **Programming Language:** Python 3.x
 
 This project was developed as an academic coursework project.
